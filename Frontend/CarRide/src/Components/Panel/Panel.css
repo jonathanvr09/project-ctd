@@ -1,0 +1,37 @@
+.panel-caja {
+  display: flex;
+  margin-top: 0%;
+}
+
+.panel-permiso {
+  background-color: #f1f1f1;
+  margin-top: 6%;
+  width: 13%;
+  height: 100%;
+}
+
+.lista {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.lista li {
+  cursor: pointer;
+  padding: 1px;
+  margin-bottom: 3px;
+  background-color: #d3d3d3;
+  border-radius: 5px;
+}
+
+.lista:hover {
+  background-color: #a9a9a9;
+}
+
+.header.hidden {
+  display: none;
+}
+
+.right-nav {
+  margin-left: 100%;
+}

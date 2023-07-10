@@ -1,0 +1,13 @@
+.title-disponibilidad {
+  margin-bottom: 1rem;
+  margin-top: 3rem;
+}
+
+.clase-boton-disponibilidad {
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+
+.clase-boton-disponibilidad-dos {
+  background-color: var(--primary-color-hover);
+}

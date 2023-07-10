@@ -1,0 +1,15 @@
+.rating {
+  font-size: 1.5rem;
+}
+
+.star {
+  display: inline-block;
+  width: 1.5rem;
+  height: 1.5rem;
+  background-color: gray;
+  margin-right: 0.25rem;
+}
+
+.star.filled {
+  background-color: yellow;
+}

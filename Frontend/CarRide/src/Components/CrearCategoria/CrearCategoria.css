@@ -1,0 +1,61 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: block;
+}
+
+.form-categoria {
+  margin-top: 10%;
+  width: 100%;
+  display: flex;
+  height: 100%;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-content: center;
+}
+
+.form-categoria h1 {
+  font-size: x-large;
+  margin-bottom: 4%;
+}
+
+.imagen-field {
+  width: 300px;
+  /* Otros estilos que desees aplicar */
+}
+
+.imagen-label {
+  font-size: 1rem;
+}
+
+.field-row {
+  display: flex;
+  gap: 5rem;
+}
+
+.custom-textfield {
+  width: 200px; /* Establece el ancho deseado, por ejemplo, 200px */
+  height: 60px; /* Alto deseado */
+}
+
+.label {
+  margin-bottom: 0.1rem;
+}
+
+.error-msg {
+  color: red;
+  font-size: 0.8rem;
+  margin-top: 0.25rem;
+}
+
+.content {
+  max-width: 602px;
+  padding: 21px;
+  border: 1px solid #ccc;
+  border-radius: 21px;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: 7% auto auto 9%;
+}

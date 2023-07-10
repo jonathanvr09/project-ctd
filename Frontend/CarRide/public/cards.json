@@ -1,0 +1,26 @@
+[
+  {
+    "id": "deportivo",
+    "imageUrl": "../images/cabrio.jpg",
+    "alt": "Deportivo",
+    "categoria": "Deportivo"
+  },
+  {
+    "id": "sedan",
+    "imageUrl": "../images/sedan.jpg",
+    "alt": "Sedan",
+    "categoria": "Sedan"
+  },
+  {
+    "id": "suv",
+    "imageUrl": "../images/suv.jpg",
+    "alt": "Suv",
+    "categoria": "Suv"
+  },
+  {
+    "id": "pick-up",
+    "imageUrl": "../images/pickup.jpg",
+    "alt": "Pick Up",
+    "categoria": "Pick Up"
+  }
+]

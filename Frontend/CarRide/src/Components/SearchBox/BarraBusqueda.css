@@ -1,0 +1,126 @@
+.barra-busqueda {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0px;
+  margin: 0px 0px 0px -1%;
+}
+
+input[type="text"] {
+  border: 1px solid #000;
+  border-radius: 3px;
+  width: 100%;
+  margin-left: 0%;
+  background: white;
+}
+
+/* Estilos para los campos de fecha */
+input[type="date"] {
+  border: 1px solid #000;
+  border-radius: 3px;
+  width: 100%;
+  margin-left: 0%;
+  background: white;
+  color: #000; /* Cambia el color del texto de la fecha si es necesario */
+}
+.campo {
+  display: flex;
+  flex-direction: column;
+  margin-right: 0.5rem;
+}
+
+.marca {
+  width: 200px;
+}
+
+.button {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background-color: #01602a;
+  border-radius: 4px;
+  padding: 29px 0;
+}
+
+.buscar-button {
+  min-width: 100px;
+}
+
+.label-estilo {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .mostrar-menu,
+  .esconder-menu {
+    display: block;
+    background: #000;
+  }
+
+  #check:checked ~ .contenedor-menu .menu {
+    right: 0;
+  }
+
+  .menu {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: #000000;
+    top: 0;
+    right: -100%;
+    text-align: center;
+    padding: 100px 0px;
+    transition: 0.8s;
+  }
+
+  .menu a {
+    display: block;
+    padding: 20px;
+  }
+
+  .esconder-menu {
+    position: absolute;
+    top: 40px;
+    right: 10px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 420px) {
+  .mostrar-menu,
+  .esconder-menu {
+    display: block;
+    cursor: pointer;
+    background: #000;
+  }
+  .boton {
+    display: inline-block;
+    padding: 8px 16px;
+    color: #333;
+    text-decoration: none;
+    border: none;
+    border-radius: 22px;
+    cursor: pointer;
+    background-color: rgb(65, 225, 102);
+    margin: 50px;
+  }
+
+  .menu a {
+    display: flex;
+    padding: 11px;
+    flex-direction: column;
+  }
+  .campo {
+    margin: 0.5rem 0; /* Ajuste para separar los campos */
+    display: flex; /* Mostrar los campos como una fila */
+    align-items: center; /* Alinear los elementos verticalmente en el centro */
+  }
+
+  .campo:not(:first-child) {
+    display: none; /* Ocultar los campos de fecha */
+  }
+
+  .buscar-button {
+    margin-top: 1rem; /* Ajuste para separar del campo de marca */
+    align-self: center; /* Alinear el botón en el centro vertical */
+  }
+}

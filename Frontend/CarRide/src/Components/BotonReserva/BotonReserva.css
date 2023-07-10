@@ -1,0 +1,27 @@
+    .boton {
+        padding: 8px 16px;
+        color: #ffffff;
+        text-decoration: none;
+        border: none;
+  /*       border-radius: 5px; */
+        cursor: pointer;
+        background: var(--second-color);
+        margin-right: 10px;       
+        border-radius: 5px;
+        outline: none;
+        border: 1px solid var(--primary-color);
+        cursor: pointer;
+    }
+    
+    .botones-container {
+        display: flex;
+    }
+    
+    .boton:hover {
+        background-color: #ddd;
+    }
+    
+    .boton:active {
+        background-color: #ccc;
+    }
+    

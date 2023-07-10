@@ -1,0 +1,35 @@
+.contenedor-imagen {
+  width: 100%;
+  margin-top: 0%;
+  margin-left: 5%;
+}
+
+.contenedor-imagen h2 {
+  font-size: 2rem;
+  margin-top: 9%;
+}
+
+.subrayado {
+  border-bottom: 2px solid black;
+}
+
+.linea-caracteristicas {
+  display: flex;
+  align-items: center;
+}
+
+.caracteristica {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  gap: 10%;
+}
+
+.caracteristica i {
+  margin-right: 5px;
+}
+
+.titulo-producto h2 {
+  margin: 2% 0% 0% 8%;
+  font-size: 0.6rem;
+}

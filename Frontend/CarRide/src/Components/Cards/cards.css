@@ -1,0 +1,141 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(12rem, 16rem));
+  gap: 2rem;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 2;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 246px;
+  margin: 0.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+.card:hover .card__btn {
+  background: var(--clr-primary);
+  color: white;
+}
+
+.contenedor-cards {
+  display: flex;
+  margin: 6%;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.pagination-button {
+  padding: 8px;
+  margin-right: 4px;
+  border: none;
+  background-color: #f0f0f0;
+  color: #333;
+  cursor: pointer;
+}
+
+.pagination-button.active {
+  background-color: #333;
+  color: #fff;
+}
+
+.conteo {
+  display: flex;
+}
+.conteo a {
+  display: contents;
+}
+
+@media (max-width: 1024px) {
+  .grid-container {
+    grid-template-columns: repeat(2, minmax(12rem, 16rem));
+  }
+}
+
+@media (max-width: 767px) {
+  .grid-container {
+    grid-template-columns: repeat(1, minmax(12rem, 16rem));
+  }
+
+  .titulo-Cards h2 {
+    margin: 10% 21%;
+  }
+
+  .contenedor-cards {
+    margin: 0%;
+    white-space: nowrap;
+    overflow-x: auto;
+  }
+
+  .slick-slider {
+    width: 100%;
+    position: sticky;
+    display: block;
+    overflow: hidden;
+    margin: 0px 0px 0px -5px;
+  }
+
+  .slick-slide > div {
+    display: flex;
+    justify-content: center;
+  }
+
+  .slick-dots {
+    bottom: 10px;
+  }
+
+  .slick-dots li button:before {
+    font-size: 10px;
+  }
+}
+@media (min-width: 320px) and (max-width: 420px) {
+  .grid-container {
+    grid-template-columns: repeat(1, minmax(12rem, 16rem));
+  }
+  .pagination {
+    display: none;
+  }
+  .slick-slider {
+    width: 91%;
+  }
+  .contenedor-cards {
+    margin: 0%;
+    white-space: nowrap;
+    overflow-x: auto;
+  }
+  .card-action-area {
+    width: 80%;
+    height: 150px;
+  }
+
+  .card-action-area .card-media {
+    height: 120px;
+  }
+
+  .card-action-area .card-content {
+    font-size: 120px;
+  }
+  .slick-dots {
+    bottom: -25px;
+  }
+  .css-1t6e9jv-MuiCardActions-root {
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 8px;
+    flex-direction: column;
+  }
+}

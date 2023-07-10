@@ -1,0 +1,11 @@
+@import './reset.css';
+
+:root {
+  --primary-color: #49a178;
+  --primary-color-hover: #f0572d;
+  --second-color: #01602a;
+  --text-color: #111;
+  --text-inverted-color: #f0f0f0;
+  --bg-color: #ffffff;
+
+}

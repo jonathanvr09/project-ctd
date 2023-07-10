@@ -1,0 +1,42 @@
+.container {
+  max-width: 550px;
+  padding: 35px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.content {
+  max-width: 615px;
+  padding: 29px;
+  border: 1px solid #ccc;
+  border-radius: 17px;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: 6% auto auto 9%;
+}
+
+.form-producto {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.botones {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button-container {
+  margin-left: 76%;
+}

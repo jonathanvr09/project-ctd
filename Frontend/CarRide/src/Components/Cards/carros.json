@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2022/02/20220211-MARCAS-CARROS-MAS-CONFIABLES-2022-PORTADA.jpg",
+    "alt": "Carro 1",
+    "title": "Jeep Renegade",
+    "description": "Confort, potencia y entretenimiento mejoradas con un look exterior recién actualizado. El nuevo Jeep® Renegade Sport ",
+    "categoria": "Deportivo"
+  },
+  {
+    "id": 2,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2022/02/20220211-MARCAS-CARROS-MAS-CONFIABLES-2022-PORTADA.jpg",
+    "alt": "Carro 2",
+    "title": "Toyota Camry",
+    "description": "Un sedán elegante y confiable, con un interior espacioso y características avanzadas para una experiencia de conducción de primera clase.",
+    "categoria": "Deportivo"
+  },
+  {
+    "id": 3,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2022/02/20220211-MARCAS-CARROS-MAS-CONFIABLES-2022-PORTADA.jpg",
+    "alt": "Carro 3",
+    "title": "Ford Mustang",
+    "description": "El clásico deportivo americano, con un diseño icónico y un motor potente que te hará sentir la emoción de la velocidad.",
+    "categoria": "Deportivo"
+  },
+  {
+    "id": 4,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 4",
+    "title": "Honda CR-V",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Deportivo"
+  },
+  {
+    "id": 5,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 5",
+    "title": "Corolla",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Deportivo"
+  },
+  {
+    "id": 6,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 6",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Deportivo"
+  },
+  {
+    "id": 7,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 7",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Deportivo"
+  },
+  {
+    "id": 8,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 8",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Deportivo"
+  },
+  {
+    "id": 9,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 9",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Sedan"
+  },
+  {
+    "id": 10,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 10",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Sedan"
+  },
+  {
+    "id": 11,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 11",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Sedan"
+  },
+  {
+    "id": 12,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 12",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Sedan"
+  },
+  {
+    "id": 13,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 13",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Suv"
+  },
+  {
+    "id": 14,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 14",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Suv"
+  },
+  {
+    "id": 15,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 15",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Pick Up"
+  },
+  {
+    "id": 16,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 16",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Pick Up"
+  },
+  {
+    "id": 17,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 17",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Pick Up"
+  },
+  {
+    "id": 18,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 18",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Pick Up"
+  },
+  {
+    "id": 19,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 19",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Pick Up"
+  },
+  {
+    "id": 20,
+    "url": "https://img.lalr.co/cms/2022/09/08070553/Lamborghini-Urus-Performante.jpg?size=sm",
+    "alt": "Carro 20",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Pick Up"
+  },
+  {
+    "id": 21,
+    "url": "https://estaticos.elcolombiano.com/documents/10157/0/974x365/162c0/580d365/none/11101/CRFH/image_content_31196326_20180608180416.jpg",
+    "alt": "Carro 21",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Suv"
+  },
+  {
+    "id": 22,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 22",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Pick Up"
+  },
+  {
+    "id": 23,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 23",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Pick Up"
+  },
+  {
+    "id": 24,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 24",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Suv"
+  },
+  {
+    "id": 25,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 25",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Suv"
+  },
+  {
+    "id": 26,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 26",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Suv"
+  },
+  {
+    "id": 27,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 27",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Suv"
+  },
+  {
+    "id": 28,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 28",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Suv"
+  },
+  {
+    "id": 29,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 29",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Suv"
+  },
+  {
+    "id": 30,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 30",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Suv"
+  },
+  {
+    "id": 31,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 31",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Suv"
+  },
+  {
+    "id": 32,
+    "url": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/02/20210208-TOP-75-CARROS-MAS-VENDIDOS-DE-COLOMBIA-EN-ENERO-2021-01.jpg",
+    "alt": "Carro 32",
+    "title": "Mazda 3",
+    "description": "Un SUV versátil y confiable, con amplio espacio interior y características de seguridad avanzadas para una conducción tranquila y cómoda.",
+    "categoria": "Suv"
+  }
+]

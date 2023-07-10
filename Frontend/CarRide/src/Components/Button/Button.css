@@ -1,0 +1,25 @@
+.container {
+  background: var(--second-color);
+  margin: 4px;
+  padding: 10px 25px;
+  transition: 0.4s ease-in-out;
+  background-size: 200% auto;
+  color: white;            
+  border-radius: 5px;
+  display: flex;
+  outline: none;
+  border: 1px solid var(--primary-color);
+  cursor: pointer;
+  height: 40px;
+  width: 180px;
+  font-size: 1rem;
+  align-items: center;
+  justify-content: center;
+}
+
+&:hover {
+  background: var(--primary-color);
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}

@@ -1,0 +1,43 @@
+.social {
+  display: none;
+}
+
+.socialMenu {
+  display: block;
+  align-self: end;
+  margin: 32px 5px 22px 0;
+}
+
+.socialMenu a {
+  margin-left: 14px;
+}
+
+.social svg {
+  font-size: 20px;
+  color: #ffffff;
+  transition: color 0.3s ease-in-out;
+}
+
+.social svg:hover {
+  color: var(--primary-color);
+}
+
+@media screen and (min-width: 768px) {
+  .social {
+    display: flex;
+    align-items: center;
+  }
+
+  .social a {
+    margin-right: 20px;
+    max-height: 27px;
+  }
+
+  .social svg {
+    color: #ffffff;
+  }
+
+  .social svg:hover {
+    color: var(--primary-color);
+  }
+}

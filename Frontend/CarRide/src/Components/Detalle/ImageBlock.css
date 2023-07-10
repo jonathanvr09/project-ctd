@@ -1,0 +1,75 @@
+.image-block {
+  width: 54%;
+  margin-left: 14%;
+}
+
+.second-image {
+  width: 96%;
+  margin-top: 4%;
+  border-radius: 6%;
+}
+
+.additional-images {
+  display: flex;
+  width: 100%;
+  gap: 1%;
+  flex-wrap: wrap;
+}
+
+.additional-images .grid-item {
+  flex-basis: 23%;
+  padding: 1%;
+  box-sizing: border-box;
+}
+
+.additional-images .grid-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 6%;
+}
+
+.caracteristicas {
+  width: 114%;
+  margin-bottom: 4%;
+  margin-top: 0%;
+  margin-left: -1%;
+}
+
+.caracteristicas h6 {
+  margin-bottom: 10px;
+}
+
+.caracteristicas .linea-caracteristicas {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.caracteristicas .linea-caracteristicas .caracteristica {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.caracteristicas .linea-caracteristicas .caracteristica .svg {
+  margin-right: 5px;
+}
+
+.view-more {
+  clear: both;
+  text-align: center;
+  margin-top: 10px;
+  cursor: pointer;
+  margin-left: 72%;
+}
+
+.ver-mas {
+  margin-left: 72%;
+}
+
+@media screen and (min-width: 14in) {
+  .additional-images {
+    display: flex;
+    width: 129%;
+  }
+}
