@@ -1,92 +1,131 @@
-# Equipo 7
+HOME
+
+![favicon](uploads/fe672338f7e8b8b9cb3e764cbe142e8b/favicon.ico) **CarRide** _Alcanza tus metas_
+![a34db94b-efa3-4a00-b6c1-7ec7f5ca34fe](uploads/b4eb52a3f4f646370760d42d5d83fdf8/a34db94b-efa3-4a00-b6c1-7ec7f5ca34fe.jpg)
+
+_**Deploy:**_  http://carridedigital.s3-website.us-east-2.amazonaws.com/
+
+_**Info general del proyecto:**_
+
+El proyecto consistió en el desarrollo de una aplicación para brindar los servicios de reservas de vehículos, aplicando cada uno de los conocimientos adquiridos durante el primer track de la carrera Certified Tech Developer. En este, podemos consultar y reservar diferentes y categorías de vehículos, y a través del panel del Admin podemos gestionar la creación de nuevas categorías, vehículos, manipular esta información e incluso eliminar alguna de ellas.
+La pagina nos permite tres flujos diferentes de navegación, un visitante común que solo puede visualizar de manera sencilla con la aplicación, ya sea viendo las categorías de vehículos y estos mismos. Un segundo usuario común que ya después de haber hecho su respectivo registro, puede ingresar e interactuar con más detalle e incluso realizar alguna reserva mediante diferentes rangos de fechas deseados. Y por último el usuario administrador quien tiene el poder sobre la página, puede crear nuevo contenido en general y también eliminar diferentes productos.
+Durante el desarrollo del proyecto creamos un entorno laboral muy real, donde aplicamos las metodologías de trabajo ágiles y donde se espera cumplir con los entregables durante sprint en tiempo muy cortos.
 
 
+Documentación Proyecto Integrador
+Documentación del proyecto
 
-## Getting started
+Enlace al Trello: https://trello.com/b/l897mTLs/proyectointegradorequipo7
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+Enlace al Drive: https://drive.google.com/drive/folders/1Iu9sBjLtah9G6xJC3kGOr-MAzvIcE6Dr
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+Documentación Sprint Nº1
 
-## Add your files
+Link: https://docs.google.com/presentation/d/1oRU3UWi7ZbmCsaj5To5ZW5C75Puar3NJzcprnbAKdaY/edit#slide=id.g1e17a42531e_0_84
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+Archivo PDF: SPRINT_1_Bitacora_Proyecto_-_Integrador_Grupo7.pdf
 
-```
-cd existing_repo
-git remote add origin https://gitlab.ctd.academy/ctd/hispanos/proyecto-integrador-1/proyecto-integrador-0523/1021pt-c1/equipo-7.git
-git branch -M main
-git push -uf origin main
-```
+Documentación Sprint Nº2
 
-## Integrate with your tools
+Link: https://docs.google.com/presentation/d/15715ns5L6o9PATa7h7ZAqjjGrRYskipDP2tSzturh04/edit#slide=id.g11097768223_4_0
 
-- [ ] [Set up project integrations](https://gitlab.ctd.academy/ctd/hispanos/proyecto-integrador-1/proyecto-integrador-0523/1021pt-c1/equipo-7/-/settings/integrations)
+Archivo PDF: SPRINT_2_Bitacora_Proyecto_-_Integrador_Grupo7.pdf
 
-## Collaborate with your team
+Documentación Sprint Nº3
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+Link: https://docs.google.com/presentation/d/1LO2auXKKtTPk9YQPliQim4B3S8_EKKAR-eSmZ9fT72s/edit#slide=id.gd1c9ff308e_0_21
 
-## Test and Deploy
+Archivo PDF: SPRINT_3_Bitacora_Proyecto_-_Integrador_Grupo7.pdf
 
-Use the built-in continuous integration in GitLab.
+Documentación Sprint Nº4
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+Link: https://docs.google.com/presentation/d/1-7iQS_e5SEYR-x5eKxbipi-I_EYaDzDwI1YTdaevLL0/edit#slide=id.g1e17a42531e_0_84
 
-***
+Archivo PDF: SPRINT_4_Bitacora_Proyecto_-_Integrador_Grupo7.pdf
 
-# Editing this README
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!).  Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
+Información técnica del proyecto
+Instrucciones básicas para integrar los ambientes de desarrollo
 
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+Instalación de los IDEs IntelliJ IDEA y Visual Studio Code.
 
-## Name
-Choose a self-explaining name for your project.
+Instalación de la DB MySQL Workbench
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+Instalación de la plataforma API Postman
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+Construcción de manual de integración y edición de variables de entorno del sistema MANUAL_DE_INTEGRACION_BACKEND_Y_FRONTEND.pdf
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+Seguir pasos de la estrategia de branching y clonar el repositorio Estrategia_de_branching.docx
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+Abrir carpetas del proyecto backend en IntelliJ y el frontend en Visual Studio Code respectivamente.
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+Una vez abierto MySQL Workbench crear conexión a la Base de Datos asignada al equipo. Conexion_local_a_base_de_datos.docx
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+Desde Visual Studio Code, abriremos la terminal dentro de la carpeta de ront-End.
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+Posicionado dentro la carpeta correspondiente al Front-End, usar npm i para instalar las dependencias necesarias.
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+$ npm install
+Una vez completo el paso anterior, ejecutar el siguiente codigo en la consola:
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+$ npm start
+Esto nos iniciará el proyecto por default en localhost en un puerto
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+En el archivo de application.properties del Back-End, debemos colocar los datos de nuestra base de datos (MySQL Workbrench) local. Es decir, el username y password. Conexion_local_a_base_de_datos.docx
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+Posteriormente ejecutar con el botón de RUN el proyecto backend desde el IntelliJ.
 
-## License
-For open source projects, say how it is licensed.
+Para probar los distintos Endpoints podemos utilizar Postman importando la siguiente colección: Escenarios_CarRide.postman_collection.json que también podemos encontrar dentro del apartado de Testing.
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+
+Tecnologías y herramientas empleadas
+Herramientas de tecnología:
+
+IDEs: IntelliJ IDEA Community, Visual Studio Code.
+Sistemas de control de versiones: Git (GitLab)
+Simulación / Virtualización: Cuenta en Amazon Web Service (AWS).
+Tecnologías empleadas:
+
+Front-End
+
+React
+react-router-dom (manejo de rutas)
+CSS
+Back end
+
+Java
+Spring
+Spring Boot
+Spring Security
+API Rest
+JWT
+Maven
+Swagger (documentación)
+Base de datos
+
+MySQL
+Infraestructura
+
+AWS
+Buckets S3 (Amazon Simple Storage Service). Para almacenar el Front-End.
+Amazon Elastic Compute Cloud (EC2) para alojar el Back-End (API)
+Deploy en AWS utilizando pipelines desde GitLab CI/CD
+Testing
+
+Pruebas de caja negra y caja blanca, test unitarios.
+Postman
+Comunicación e interacción:
+
+Medios
+
+Discord
+WhatsApp
+Email
+Zoom
+Meet
+Herramientas
+
+Trello
+Miro
+Figma
+Google Docs
